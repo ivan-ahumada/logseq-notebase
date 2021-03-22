@@ -2,4 +2,4 @@
 title: Something
 ---
 
-## 
+## $4$
