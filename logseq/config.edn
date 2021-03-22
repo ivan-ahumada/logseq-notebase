@@ -63,6 +63,9 @@
  ;; E.g. [["js" "Javascript"]]
  :commands
  []
+ 
+ ;; Shortcut section.
+ :shortcuts {:ui/toggle-theme "mod+c mod+t"}
 
  ;; Macros replace texts and will make you more productive.
  ;; For example:
