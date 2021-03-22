@@ -2,5 +2,5 @@
 title: Athens v. Logseq
 ---
 
-## {{table}}
 ###
+## {{table}}
