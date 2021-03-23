@@ -4,7 +4,7 @@ title: Process to trigger a failure
 
 ## **Test**
 ### ((605970e4-d621-42ef-a0cb-49b496f01c4a))
-#### **Faulty Location**
+#### *Fault location*
 ##### ((605970e4-777b-4ea7-8bc6-9c6faeb08039))
 ###### *Incorrect state*
 ####### ((605970e4-f363-4fb8-92d6-9b9a798e97be))
