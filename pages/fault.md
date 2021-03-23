@@ -2,4 +2,6 @@
 title: Fault
 ---
 
-## **Static** defect in program
+## Static defect in a program
+## **Examples**
+###
