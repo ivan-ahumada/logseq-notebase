@@ -8,4 +8,4 @@ title: Computing prime paths
 ## **CAREFUL**: Also used if a path would repeat nodes on a further extend.
 ## `*` indicates a cycle and it cannot be extended for the next step.
 ## `!` in a path table means to not consider that node because it doesn't have outgoing edges.
-## Any
+## **DETAIL:**
