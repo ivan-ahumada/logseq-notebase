@@ -6,4 +6,4 @@ title: Program Counter
 ## Indicates **next state to be executed in program**
 ## **Example**
 ### `PC = "return -1;"`
-### This says where the
+### This says
