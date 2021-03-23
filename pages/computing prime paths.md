@@ -9,4 +9,4 @@ title: Computing prime paths
 ## `!` in a path table means to not consider that node because it doesn't have outgoing edges.
 ## **CAREFUL**: `!` is also used if a path would repeat nodes on a further extend.
 ## **CAREFUL:** any path with `*` is a [[Prime path]]
-## Any path with `!` needs to
+## Any path with `!` needs to be checked if its a subpath of another [[Simple path]]
