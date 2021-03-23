@@ -2,4 +2,4 @@
 title: Fault
 ---
 
-## **Static** defect in program __what__
+## **Static** defect in program _what_
