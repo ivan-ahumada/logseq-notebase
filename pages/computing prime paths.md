@@ -9,3 +9,4 @@ title: Computing prime paths
 ## `*` indicates a cycle and it cannot be extended for the next step.
 ## `!` in a path table means to not consider that node because it doesn't have outgoing edges.
 ## **CAREFUL:** any path with `*` is a [[Prime path]]
+##
