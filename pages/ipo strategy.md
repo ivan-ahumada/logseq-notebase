@@ -3,6 +3,6 @@ title: IPO Strategy
 ---
 
 ## First create [[Pairwise Set]] for the first two parameters
-## Next do [[Horizontal Growth]]
+## Next do [[Horizontal Growth]] *always do first*
 ### **Repeat this step until all parameters are added**
-## Next do [[Vertical Growth]]
+## Next do [[Vertical Growth]] *always do second*
