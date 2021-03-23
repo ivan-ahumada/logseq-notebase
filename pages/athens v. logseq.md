@@ -3,4 +3,7 @@ title: Athens v. Logseq
 ---
 
 ## Sup
-## else
+## 
+#+BEGIN_EXPORT latex
+
+#+END_EXPORT
