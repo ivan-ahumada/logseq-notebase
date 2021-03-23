@@ -18,3 +18,6 @@ title: Failure
 :id: 605970e4-f363-4fb8-92d6-9b9a798e97be
 :END:
 ### **Revealability**: incorrect portion of final [[Program State]] must be observed from the outside
+:PROPERTIES:
+:id: 605970e4-177f-499b-8847-0c98ce50c534
+:END:
