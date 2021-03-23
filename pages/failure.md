@@ -14,4 +14,7 @@ title: Failure
 :id: 605970e4-777b-4ea7-8bc6-9c6faeb08039
 :END:
 ### **Propagation**: infected [[Program State]] must cause final [[Program State]] to be incorrect
+:PROPERTIES:
+:id: 605970e4-f363-4fb8-92d6-9b9a798e97be
+:END:
 ### **Revealability**: incorrect portion of final [[Program State]] must be observed from the outside
