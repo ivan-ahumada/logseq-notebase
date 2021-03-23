@@ -2,4 +2,4 @@
 title: Error
 ---
 
-## An incorrect internal state **caused by a [[Fault]]**
+## An incorrect internal [[Program State]] **caused by a [[Fault]]**
