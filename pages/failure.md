@@ -8,4 +8,4 @@ title: Failure
 ### **Reachability**: location or locations in program that contain fault must be reached
 ### **Infection**: must create an incorrect [[Program State]]
 ### **Propagation**: infected [[Program State]] must cause final [[Program State]] to be incorrect
-### **Revealability**:
+### **Revealability**: incorrect portion of final [[Program State]] must be observed from the outside
